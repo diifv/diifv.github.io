@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://diifv.github.io/WCl/sitemap.WCl.gz
